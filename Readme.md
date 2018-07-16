@@ -12,4 +12,4 @@ Example UI before keyboard appears:
 
 Example UI after soft keyboard appears:
 
-![After Keyboard](images/after_keyboard,png)
+![After Keyboard](images/after_keyboard.png)
